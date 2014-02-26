@@ -12,7 +12,7 @@
       "description": "Duplicate"
     },
     "WINDOWS": {
-      "suggested_key": { "default": "Ctrl+Shift+D"},
+      "suggested_key": { "default": "Ctrl+Y"},
       "description": "Duplicate"
     }
   },
