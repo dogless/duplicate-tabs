@@ -12,3 +12,7 @@ Instructions
 - Clone repository
 - Open the Chrome Extensions under the Chrome Settings
 - Load unpacked extension and point it to the directory of this repository
+
+TODO
+----
+- Add hotkey for Windows users
