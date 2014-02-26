@@ -7,8 +7,12 @@
     "scripts": ["background.js"]
   },
   "commands": {
-    "toggle-pin": {
+    "MAC": {
       "suggested_key": { "default": "MacCtrl+D" },
+      "description": "Duplicate"
+    },
+    "WINDOWS": {
+      "suggested_key": { "default": ""},
       "description": "Duplicate"
     }
   },
